@@ -15,5 +15,7 @@ You need to install four modules or library: numpy, scipy, pandas, os, tensorflo
 
 ## Device
 CPU: Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz   2.90 GHz
+
 RAM: 32.0GB
+
 GPU: NVIDIA GeForce RTX 3070
