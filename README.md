@@ -8,9 +8,9 @@ You need to install four modules or library: numpy, scipy, pandas, os, tensorflo
 ## Contents
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> ver 3.7.7
 
-<img src="https://img.shields.io/badge/Keras-3776AB?style=for-the-badge&logo=Keras&logoColor=white"> ver 2.5.0
+<img src="https://img.shields.io/badge/Keras-3776AB?style=plastic&logo=Keras&logoColor=white"> ver 2.5.0
 
-<img src="https://img.shields.io/badge/Sklearn-3776AB?style=for-the-badge&logo=Sklearn&logoColor=white"> ver 1.1.0
+<img src="https://img.shields.io/badge/Sklearn-3776AB?style=plastic&logo=Sklearn&logoColor=white"> ver 1.1.0
 
 
 ## Device
