@@ -6,13 +6,12 @@ The project integrated a wide range of information, including technical indicato
 You need to install four modules or library: numpy, scipy, pandas, os, tensorflow/keras, sklearn, matplotlib
 
 ## Contents
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-ver 3.7.7
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> ver 3.7.7
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-ver 2.5.0
+<img src="https://img.shields.io/badge/Keras-3776AB?style=for-the-badge&logo=Keras&logoColor=white"> ver 2.5.0
 
-📌 sklearn 1.1.0
+<img src="https://img.shields.io/badge/Sklearn-3776AB?style=for-the-badge&logo=Sklearn&logoColor=white"> ver 1.1.0
+
 
 ## Device
 CPU: Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz   2.90 GHz
