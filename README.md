@@ -1,6 +1,7 @@
 # Bitcoin-Price-Prediction
 
 The project integrated a wide range of information, including technical indicators, sentiment analysis from social media, news sources, and Google Trends, to predict the Bitcoin price. The study also integrated macroeconomic indicators, on-chain Bitcoin transaction history, and traditional financial asset data.
+
 The implementation code for iTransformer and TSMixer has been cited from the original code at https://github.com/hughxx/tsf-new-paper-taste.
 
 ## Installation
